@@ -38,11 +38,7 @@ Clean and user-friendly UI with Streamlit.
 Setup
 Clone the repository:
 
-bash
-Copy code
-git clone https://github.com/yourusername/phonepe-pulse-visualization.git
-cd phonepe-pulse-visualization
-Create and activate a virtual environment (optional but recommended):
+
 
 bash
 
